@@ -1,2 +1,2 @@
-user = input("Enter your username: ")
-print ("Nice to meet you!" + user + "!")
+user = input("Kerro nimesi: ")
+print ("Hauska tutustua!, " + user + "!")
