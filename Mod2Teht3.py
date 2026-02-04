@@ -7,5 +7,5 @@ korkeus = float(Korkeus_str)
 
 piiri = (korkeus*2+kanta*2)
 pintaala = (kanta*korkeus)
-print("Suorakulmion piiri on, " + str(piiri), "Ja Suorakulmion pinta-ala on " + str(pintaala))
+print("Suorakulmion piiri on, " + str(piiri), "Ja Suorakulmion pinta-ala on, " + str(pintaala))
 
