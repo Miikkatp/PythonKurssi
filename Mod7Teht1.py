@@ -8,3 +8,4 @@ if 1<= kuukausi <=12:
 
 else: print("Anna oikean kuukauden numero")
 
+#Vuodenaika
